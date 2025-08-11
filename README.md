@@ -1,5 +1,4 @@
-<<<<<<< HEAD
- Pocket Pilot - Smart Financial Management
+Pocket Pilot - Smart Financial Management
 
 A complete frontend-only version of a financial management web application built with Next.js 14 and Tailwind CSS. This project demonstrates a modern SaaS application with tiered pricing, beautiful UI, and fully functional mockup features.
 
@@ -224,4 +223,4 @@ For questions or support, please open an issue on GitHub.
 =======
 # pocket-pilot
 💼 Pocket Pilot is your personal finance co-pilot! ✈️ Track expenses 🧾, manage income 💰, and stay on budget 📊 with ease. Set financial goals 🎯, view monthly summaries 📅, and gain control over your money 💸—all in one simple, mobile-friendly tool 📱. Budget smart. Spend wise. Save more! ✅
->>>>>>> d148690b7dc1b0a48b5aeedeab586a39195e0e75
+
