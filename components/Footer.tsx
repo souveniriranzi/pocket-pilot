@@ -25,7 +25,7 @@ export default function Footer() {
               <a href="https://linkedin.com/en/souveniriranzi" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
                 <Linkedin className="w-5 h-5" />
               </a>
-              <a href="https://twitter.com/en/souveniriranzi" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
+              <a href="https://twitter.com/in/souveniriranzi" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
                 <Twitter className="w-5 h-5" />
               </a>
               <a href="https://instagram.com/souveniriranzi" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
